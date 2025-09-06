@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magika", "Magika\Magika.csproj", "{7DB80496-F1B8-812F-F972-8D10CE57CB1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB80496-F1B8-812F-F972-8D10CE57CB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB80496-F1B8-812F-F972-8D10CE57CB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB80496-F1B8-812F-F972-8D10CE57CB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB80496-F1B8-812F-F972-8D10CE57CB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8D4E7B2-2197-4DCD-9A12-FE4DFB1FFEE8}
+	EndGlobalSection
+EndGlobal
