@@ -46,7 +46,6 @@
   <!-- 打包时把 README 一起打进 nupkg -->
   <ItemGroup>
     <None Include="README.md" Pack="true" PackagePath="" />
-    <None Include="NOTICE" Pack="true" PackagePath="" />
   </ItemGroup>
 
   <PropertyGroup Condition="'$(Configuration)'=='Release'">
